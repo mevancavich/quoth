@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    background-color: #000000;
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background-color: #000000;
+}
+
+hr {
+    border: none;
+    border-bottom: 1px solid #ffffff;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+.header-img {
+    margin: 10px 0 0 20px;
+}
+
+.header-links-group {
+    position: absolute;
+    right: 0px;
+    bottom: 50px;
+    margin-right: 20px;
+    padding: 0 10px;
+}
+
+.header-links {
+    margin: 0 13px;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.main-section {
+    
+}
+
+.quoth-main-img {
+    width: 40%;
+}
